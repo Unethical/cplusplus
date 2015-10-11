@@ -1,0 +1,77 @@
+REPORT 2: using each command once
+
+Enter a command: d 1 20
+Enter a command: f
+   1 | Edsger Dijkstra 1968
+   2 | Donald Knuth 1968
+   3 | Niklaus Wirth 1970
+   4 | Sophie Wilson 1981
+   5 | Tim Berners-Lee 1989
+   6 | BBBBBBBBBBB
+Enter a command: l 5 2
+   5 | Tim Berners-Lee 1989
+   4 | Sophie Wilson 1981
+   3 | Niklaus Wirth 1970
+   2 | Donald Knuth 1968
+Enter a command: l 1
+   1 | Edsger Dijkstra 1968
+Enter a command: a
+ Author | Jose Sepulveda
+  Class | CIS22C: Data Structures Fall 2015
+College | De Anza College
+Enter a command: h
+
+  T
+	// Display the total number of lines in the text.
+
+  F
+	// Print all lines from first to last
+
+  B
+	// Print all lines from last to first
+
+  I <line #> <text>
+	 // Insert new line in the provided line number
+
+  L <line #1> <line #2>
+	 // List all lines between #1 and #2 inclusively.
+
+  L <line #> 
+	 // Display the given line.
+
+  D <line #1> <line #2>
+	 // Delete all lines between #1 and #2 inclusively.
+
+  D <line #> 
+	 // Delete the given line.
+
+  S <output file name>
+	 // Saves progress to output file name provided.
+
+  H 
+	// Display help.
+
+  A 
+	// Display author information.
+
+  Q 
+	// Quit edditing the file.(autosaves to backup.txt)
+Enter a command: b
+   6 | BBBBBBBBBBB
+   5 | Tim Berners-Lee 1989
+   4 | Sophie Wilson 1981
+   3 | Niklaus Wirth 1970
+   2 | Donald Knuth 1968
+   1 | Edsger Dijkstra 1968
+Enter a command: i 3 this statement is false and in position 3
+Enter a command: l 3
+   3 | this statement is false and in position 3 
+Enter a command: d 1 299
+Enter a command: f
+Enter a command: i 1 this is the only line
+Enter a command: f
+   1 | this is the only line 
+Enter a command: s out.txt
+Enter a command: q
+Saved to: backup.txt
+

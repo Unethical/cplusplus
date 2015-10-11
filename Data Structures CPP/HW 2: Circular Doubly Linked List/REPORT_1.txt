@@ -1,0 +1,130 @@
+REPORT 1 GIVEN COMMANDS:
+
+Enter a command: f
+   1 | AAAAAAAAAAAAAAAA
+   2 | Charles Babbage 1837
+   3 | Ada Lovelace 1843
+   4 | CCCCCCCCCCCCCCC
+   5 | George Boole 1847
+   6 | Kurt Gödel 1931
+   7 | John Atanasoff 1943
+   8 | John von Neumann 1945
+   9 | Sergei Alekseyevich Lebedev 1951
+  10 | Grace Hopper 1952
+  11 | John Backus 1954
+  12 | Peter Naur 1960
+  13 | C.A.R. Hoare 1960
+  14 | DDDDDDDDDD
+  15 | EEEEEEEEE
+  16 | FFFFFF
+  17 | GGGGGGGGGGGGGGG
+  18 | Kristen Nygaard 1962
+  19 | Dennis Ritchie 1967
+  20 | Ken Thompson 1967
+  21 | Edsger Dijkstra 1968
+  22 | Donald Knuth 1968
+  23 | Niklaus Wirth 1970
+  24 | Sophie Wilson 1981
+  25 | Tim Berners-Lee 1989
+  26 | BBBBBBBBBBB
+Enter a command: d 4
+Enter a command: d 1
+Enter a command: d 24
+Enter a command: f
+   1 | Charles Babbage 1837
+   2 | Ada Lovelace 1843
+   3 | George Boole 1847
+   4 | Kurt Gödel 1931
+   5 | John Atanasoff 1943
+   6 | John von Neumann 1945
+   7 | Sergei Alekseyevich Lebedev 1951
+   8 | Grace Hopper 1952
+   9 | John Backus 1954
+  10 | Peter Naur 1960
+  11 | C.A.R. Hoare 1960
+  12 | DDDDDDDDDD
+  13 | EEEEEEEEE
+  14 | FFFFFF
+  15 | GGGGGGGGGGGGGGG
+  16 | Kristen Nygaard 1962
+  17 | Dennis Ritchie 1967
+  18 | Ken Thompson 1967
+  19 | Edsger Dijkstra 1968
+  20 | Donald Knuth 1968
+  21 | Niklaus Wirth 1970
+  22 | Sophie Wilson 1981
+  23 | Tim Berners-Lee 1989
+Enter a command: d 12 15
+Enter a command: f
+   1 | Charles Babbage 1837
+   2 | Ada Lovelace 1843
+   3 | George Boole 1847
+   4 | Kurt Gödel 1931
+   5 | John Atanasoff 1943
+   6 | John von Neumann 1945
+   7 | Sergei Alekseyevich Lebedev 1951
+   8 | Grace Hopper 1952
+   9 | John Backus 1954
+  10 | Peter Naur 1960
+  11 | C.A.R. Hoare 1960
+  12 | Kristen Nygaard 1962
+  13 | Dennis Ritchie 1967
+  14 | Ken Thompson 1967
+  15 | Edsger Dijkstra 1968
+  16 | Donald Knuth 1968
+  17 | Niklaus Wirth 1970
+  18 | Sophie Wilson 1981
+  19 | Tim Berners-Lee 1989
+Enter a command: i 1 Blaise Pascal 1642
+Enter a command: i 100 Robert Cailliau 1989
+Enter a command: f
+   1 | Blaise Pascal 1642 
+   2 | Charles Babbage 1837
+   3 | Ada Lovelace 1843
+   4 | George Boole 1847
+   5 | Kurt Gödel 1931
+   6 | John Atanasoff 1943
+   7 | John von Neumann 1945
+   8 | Sergei Alekseyevich Lebedev 1951
+   9 | Grace Hopper 1952
+  10 | John Backus 1954
+  11 | Peter Naur 1960
+  12 | C.A.R. Hoare 1960
+  13 | Kristen Nygaard 1962
+  14 | Dennis Ritchie 1967
+  15 | Ken Thompson 1967
+  16 | Edsger Dijkstra 1968
+  17 | Donald Knuth 1968
+  18 | Niklaus Wirth 1970
+  19 | Sophie Wilson 1981
+  20 | Tim Berners-Lee 1989
+  21 | Robert Cailliau 1989 
+Enter a command: i 6 Alan Turing 1936
+Enter a command: i 3 C.A.R. Hoare 1960
+Enter a command: f
+   1 | Blaise Pascal 1642 
+   2 | Charles Babbage 1837
+   3 | C.A.R. Hoare 1960 
+   4 | Ada Lovelace 1843
+   5 | George Boole 1847
+   6 | Kurt Gödel 1931
+   7 | Alan Turing 1936 
+   8 | John Atanasoff 1943
+   9 | John von Neumann 1945
+  10 | Sergei Alekseyevich Lebedev 1951
+  11 | Grace Hopper 1952
+  12 | John Backus 1954
+  13 | Peter Naur 1960
+  14 | C.A.R. Hoare 1960
+  15 | Kristen Nygaard 1962
+  16 | Dennis Ritchie 1967
+  17 | Ken Thompson 1967
+  18 | Edsger Dijkstra 1968
+  19 | Donald Knuth 1968
+  20 | Niklaus Wirth 1970
+  21 | Sophie Wilson 1981
+  22 | Tim Berners-Lee 1989
+  23 | Robert Cailliau 1989 
+Enter a command: q
+Saved to: backup.txt
+

@@ -1,0 +1,26 @@
+AAAAAAAAAAAAAAAA
+Charles Babbage 1837
+Ada Lovelace 1843
+CCCCCCCCCCCCCCC
+George Boole 1847
+Kurt Gödel 1931
+John Atanasoff 1943
+John von Neumann 1945
+Sergei Alekseyevich Lebedev 1951
+Grace Hopper 1952
+John Backus 1954
+Peter Naur 1960
+C.A.R. Hoare 1960
+DDDDDDDDDD
+EEEEEEEEE
+FFFFFF
+GGGGGGGGGGGGGGG
+Kristen Nygaard 1962
+Dennis Ritchie 1967
+Ken Thompson 1967
+Edsger Dijkstra 1968
+Donald Knuth 1968
+Niklaus Wirth 1970
+Sophie Wilson 1981
+Tim Berners-Lee 1989
+BBBBBBBBBBB
